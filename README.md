@@ -1,6 +1,8 @@
 
 # Rideshare Market Analysis
 
+![Rideshare Image](images/Ride.png)
+
 In this demonstration, I will offer data-backed guidance on new opportunities for market differentiation for a fictional Uber competitor.
 
 In the input data folder in this repo lies the company's complete recordset of ~2,400 rides. This contains information about every active driver and historic ride, including details like city, driver count, individual fares, and city type.
@@ -665,7 +667,7 @@ plt.show()
 ```
 
 
-![png](output_28_0.png)
+![png](output_30_0.png)
 
 
 ## Pie Charts
@@ -1011,7 +1013,7 @@ plt.show()
 ```
 
 
-![png](output_38_0.png)
+![png](output_40_0.png)
 
 
 
@@ -1026,7 +1028,7 @@ plt.show()
 ```
 
 
-![png](output_39_0.png)
+![png](output_41_0.png)
 
 
 
@@ -1041,7 +1043,7 @@ plt.show()
 ```
 
 
-![png](output_40_0.png)
+![png](output_42_0.png)
 
 
 ### Conclusions:
